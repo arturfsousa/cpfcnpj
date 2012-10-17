@@ -1,4 +1,4 @@
 CpfCnpj
-================================
+=======
 
-Package to handle brazilian cpf/cnpj data.
+Module to handle brazilian cpf/cnpj data.
